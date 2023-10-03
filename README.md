@@ -23,7 +23,6 @@ Here are some of the my own projects I have worked on:
 
 - **Description:** This is my first project. It is currently in production.
 - **Tools:** ReactJS, ExpressJS, Socket.io, MySQL, Plesk
-- **GitHub Repository:** [Link to the GitHub repository](https://github.com/your-username/project-repo)
 - **Website:** [Currently in production](https://terminal-xpress.com)
 
 
