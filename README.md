@@ -14,7 +14,7 @@ I am always excited to learn and explore new technologies and ideas.
 - **Phone:** 0641538319
 - **Education:** Grade 12, English and Mathematics Program
 - **Experience:** 2022 - Backend Developer(PHP), บริษัท ซิวิไลซ์ วิชั่น จำกัด
-- 
+  
 ## Projects
 
 Here are some of the my own projects I have worked on:
@@ -30,7 +30,7 @@ Here are some of the my own projects I have worked on:
 ## Skills
 
 - Programming Languages: [HTML5, CSS3, Javascript, PHP, Python(Basic), SQL]
-- Tools & Frameworks: [ReactJS, ExpressJS, GraphQL, MySQL, TailwindCSS, Ant Design, Socket.io, Django(Basic), NextJS(Basic)]
+- Tools & Frameworks: [ReactJS, ExpressJS, GraphQL, Apollo-client, MySQL, TailwindCSS, Ant Design, Socket.io, Django(Basic), NextJS(Basic)]
 - Databases: [MySQL]
 
 
