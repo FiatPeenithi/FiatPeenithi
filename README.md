@@ -31,7 +31,7 @@ Here are some of the my own projects I have worked on:
 ## Skills
 
 - Programming Languages: [HTML5, CSS3, Javascript, PHP, Python(Basic), SQL]
-- Tools & Frameworks: [ReactJS, ExpressJS, GraphQL, MySQL, TailwindCSS, Ant Design, Socket.io, Django(Basic)]
+- Tools & Frameworks: [ReactJS, ExpressJS, GraphQL, MySQL, TailwindCSS, Ant Design, Socket.io, Django(Basic), NextJS(Basic)]
 - Databases: [MySQL]
 
 
